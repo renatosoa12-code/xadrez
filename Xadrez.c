@@ -29,5 +29,17 @@ int main()
 		printf("Esquerda\n");
 	}
 
+	// CAVALO BAIXO, BAIXO, ESQUERDA
+
+	printf("\n\nCAVALO\n");
+	for (int i = 0; i < 1; i++)
+	{
+		for (int j = 0; j < 2; j++)
+		{
+			printf("Baixo\n");
+		}
+		printf("Esquerda\n");
+	}
+
 	return 0;
 }
